@@ -16,3 +16,5 @@ Training parameters:
 --item_id=<item no>
 --n-similar=<no of similar items>
 ```
+
+More info on [Wiki](https://github.com/jacekrozwadowski/ContentBasedRecommender/wiki)
